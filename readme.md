@@ -1,4 +1,4 @@
-# 🐍 30 Days Of Python
+# 🐍 30 Days Of Python come play with me
 
 |# Day | Topics                                                    |
 |------|:---------------------------------------------------------:|
